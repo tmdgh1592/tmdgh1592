@@ -39,7 +39,11 @@
 <br><br>
 </p>
  
-![BuNa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgh1592&show_icons=true&theme=dracula)
+<div align=center>
+    
+![BuNa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgh1592&show_icons=true)
+    
+</div>
       
 <br><br>
       
