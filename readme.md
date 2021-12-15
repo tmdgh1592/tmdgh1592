@@ -9,10 +9,13 @@
         src="http://img.shields.io/badge/-Facebook-464646?style=flat&logo=Facebook&logoColor=69aaff&link=https://www.facebook.com/profile.php?id=100006484800009/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmdgh1592%2Fhit-counter&count_bg=%2386E3A4&title_bg=%234F4F4F&icon=googlecardboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <br>
 💌 Contact : csh633348@gmail.com<br>
-🔎 Clean Code와 UI/UX 모두를 중요시하는 부지런한 소통왕 개발자, 최승호입니다.<br>
-🥕 결과보다 '과정 속에서 얻는 깨달음'을 중요시합니다.<br><br>
+🔎 Clean Code와 UI/UX 모두를 중요시하는 부지런한 안드로이드 개발자, 최승호입니다.<br>
+🥕 결과뿐만 아니라 '소통과 과정 속에서 얻는 깨달음'을 중요시합니다.<br><br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
