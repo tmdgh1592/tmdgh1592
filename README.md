@@ -1,10 +1,10 @@
 ## 🍊 Hello! This is Seungho Choi.
-<a href="https://itstory1592.tistory.com/">
+<a href="https://itstory1592.tistory.com/" target="_blank">
     <img 
         src="http://img.shields.io/badge/-devBlog-464646?style=flat&logo=Blogger&logoColor=f3d6ff&link=https://itstory1592.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://www.facebook.com/profile.php?id=100006484800009/">
+<a href="https://www.facebook.com/profile.php?id=100006484800009" target="_blank">
     <img 
         src="http://img.shields.io/badge/-Facebook-464646?style=flat&logo=Facebook&logoColor=69aaff&link=https://www.facebook.com/profile.php?id=100006484800009/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
