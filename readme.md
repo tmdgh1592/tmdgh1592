@@ -1,4 +1,5 @@
-## 🍊 Hello! This is Seungho Choi.
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello,%20Guys!&fontSize=90&fontColor=ffffff)
+
 <a href="https://itstory1592.tistory.com/" target="_blank">
     <img 
         src="http://img.shields.io/badge/-devBlog-464646?style=flat&logo=Blogger&logoColor=f3d6ff&link=https://itstory1592.tistory.com/"
@@ -39,7 +40,7 @@
 </p>
     
 ![BuNa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgh1592&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdgh1592&layout=compact&theme=dracula&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdgh1592&layout=compact&theme=dracula&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
       
 <br><br>
       
