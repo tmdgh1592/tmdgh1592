@@ -15,7 +15,7 @@
 
 <br>
 💌 Contact : csh633348@gmail.com<br>
-🔎 Clean Code와 UI/UX 모두를 중요시하는 부지런한 안드로이드 개발자, 최승호입니다.<br>
+🔎 Clean Code와 UX/UI 모두를 중요시하는 부지런한 안드로이드 개발자, 최승호입니다.<br>
 🥕 결과뿐만 아니라 '소통과 과정 속에서 얻는 깨달음'을 중요시합니다.<br><br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
