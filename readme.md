@@ -38,7 +38,14 @@
 
 <br><br>
 </p>
- 
+
+<div align=center>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltmdgh1592)](https://solved.ac/chltmdgh1592)
+
+<br><br>
+</div>
+
 <div align=center>
     
 ![BuNa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgh1592&show_icons=true)
@@ -46,7 +53,3 @@
 </div>
       
 <br><br>
-      
-<p align="center" display="inline">
-    ⭐ 현재 개발중인 프로젝트 : <a href="https://github.com/tmdgh1592/Parking-Service">Android 주차장 서비스</a> ⭐
-</p>
