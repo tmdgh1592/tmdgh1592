@@ -29,7 +29,7 @@
 
 ### 프로젝트 경험이 있어요.
 
-- [왓캠퍼스](https://github.com/CampusPing/Mobile-WhatCampus) : 원하는 학교/학과 공지를 쉽게 확인하고, 구독을 통해 알림 받을 수 있는 서비스
+- [왓캠퍼스](https://github.com/CampusPing/Mobile-WhatCampus) : 원하는 학교/학과 공지를 쉽게 확인하고, 구독을 통해 알림 받을 수 있는 서비스 **(진행 중)**
 - [펫튜디오](https://github.com/Team-Petudio/Petudio-Android) : 내 반려동물의 AI 사진관, Stable Diffusion으로 다양한 컨셉의 반려동물 AI 프로필 사진을 제공하는 서비스
 - [커디](https://github.com/woowacourse-teams/2023-emmsale/tree/android-main) : IT 컨퍼런스/대회 정보와 후기를 제공, 행사 동행자 모집 서비스
 - [핑퐁](https://github.com/dnd-side-project/dnd-6th-4-ping-pong) : 과외 수업 관리와 학부모와의 소통을 위한 서비스
