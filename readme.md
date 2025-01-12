@@ -15,7 +15,7 @@
 
 ### 다양한 활동을 했어요.
 
-💻 큐버 인턴(Android) : AI 공기청정기에 탑재되는 런처 개발 (2024.07 ~ _진행 중_)
+💻 큐버 (Android) : AI 공기청정기에 탑재되는 런처 및 비즈니스 로직 개발 (2024.07 ~ _진행 중_)
 
 <img src='https://avatars.githubusercontent.com/u/45747236?s=64&v=4' width=20/> 우아한테크코스 5기(Android) (2023.02 ~ 2023.11) : [학습내용 정리](https://github.com/tmdgh1592/buna-woowacourse)
 
